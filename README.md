@@ -1,0 +1,2 @@
+### HMI Code for Factory 4.0 implementation Robotics I Spring 2022
+Code is generated in EasyBuilder Pro an interactive GUI based HMI development platform.  Specific modules addressed are HWB, VGR, MPO, SSC and SLD.
